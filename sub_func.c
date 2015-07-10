@@ -1,4 +1,6 @@
 
 void show(){
-	printf("hello");
+	printf("hello\n");
+	printf("bye");
+	
 }
